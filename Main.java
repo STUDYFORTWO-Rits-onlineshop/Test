@@ -4,8 +4,9 @@
 public class Main {
   public static void main(String... args) {
     /* ここから // 自分の学生証番号と名前を出力すること． */
-    System.out.println("2600190228-7 出口　尚哉 <-- 各自の学生証番号と名前に書き換えました");
+    System.out.println("2600190228-7 出口　尚哉 <-- 各自の学生証番号と名前に書き換えましたafpkmrokrdesdekpflodae");
     /* ここまで */
+    /*ああああああああああああ */
 
     //【基本課題】
     // Circleのインスタンスを作成し，その情報を出力せよ．
