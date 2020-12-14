@@ -4,6 +4,8 @@ public class Main {
     /* ここから */
     System.out.println("Hello World");
     System.out.println("私の名前は出口尚哉です。");
+    System.out.println("私の名前は出口尚哉です。");
+    System.out.println("私の名前は出口尚哉です。");
     /* ここまで */
 
     //【発展課題】あらかじめ用意した複数のメッセージ（テキスト）の中から，一つをランダムに出力する．
